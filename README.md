@@ -6,17 +6,17 @@ I'm a Software Engineer with hands-on experience in in building intuitive web an
 
 ---
 
-## 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvchauhan7)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvchauhan7)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com) 
-
----
-
 ## 🔥 About Me  
 - **M.S. in Computer Science** at **California State University, Northridge**  
 - **Currently Working as:** Software Developer - Accessibility @ **CSUN IT Department** and Web Developer Intern @ **Innata Institute**
 - **Looking to Collaborate on:** Open-source projects, Web & Mobile App Development, AI-powered apps 
+
+---
+
+## 📫 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvchauhan7)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhruvchauhan7)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com) 
 
 ---
 
