@@ -34,11 +34,6 @@ I'm a Software Engineer with hands-on experience in in building intuitive web an
 
 ---
 
-## 🚀 Current Project  
-🔹 **[Multi-Hospital System](https://github.com/dhruvchauhan7/Multi-Hospital-System)** - A full-stack Django-based online healthcare management platform  
-
----
-
 ## 📌 Pinned Projects  
 🔹 **[DineBot](https://github.com/dhruvchauhan7/DineBot)** - An interactive NLP-based chatbot for a culinary site  
 🔹 **[MarketHub](https://github.com/dhruvchauhan7/MarketHub)** - A ReactJS-based product management web app   
