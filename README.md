@@ -29,7 +29,7 @@ I'm a Software Engineer with hands-on experience in in building intuitive web an
 ---
 
 ## 📊 GitHub Stats  
-![Dhruv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvchauhan7&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhruvchauhan7&show_icons=true&theme=nightowl) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvchauhan7&layout=compact&theme=radical)  
 
 ---
