@@ -7,8 +7,8 @@ I'm a Software Engineer with hands-on experience in in building intuitive web an
 ---
 
 ## 🔥 About Me  
-- **M.S. in Computer Science** at **California State University, Northridge**  
-- **Currently Working as:** Software Developer - Accessibility @ **CSUN IT Department** and Web Developer Intern @ **Innata Institute**
+- **M.S. in Computer Science** at **California State University, Northridge** (GPA: 3.91/4.00) (Graduating December 2025)
+- **Currently Working as:** Software Developer - Accessibility @ [**CSUN IT Department**](https://www.csun.edu/universal-design-center) and Web Developer Intern @ [**Innata Institute**](https://innatainstitute.com/)
 - **Looking to Collaborate on:** Open-source projects, Web & Mobile App Development, AI-powered apps 
 
 ---
